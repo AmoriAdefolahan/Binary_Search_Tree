@@ -20,4 +20,4 @@
   - Maintains BST properties by restructuring the tree when we remove the value
   - returns a string telling if deletion was or wasn't successful
 # Author
-[Tomas Urdinola](https://github.com/tomurdi)
+Amori Adefolahan.
